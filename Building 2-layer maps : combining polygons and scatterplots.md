@@ -229,7 +229,8 @@ plt.grid()
 plt.show()
 ```
 
-OUTPUT :
+OUTPUT:
+
 ![image](https://user-images.githubusercontent.com/77969007/234365749-15834675-2836-4046-ab26-253165ed9b44.png)
 
 
